@@ -1,0 +1,49 @@
+state_name,postal_code,NCEI_code,FIPS_code
+Alabama,AL,1,1
+Arizona,AZ,2,4
+Arkansas,AR,3,5
+California,CA,4,6
+Colorado,CO,5,8
+Connecticut,CT,6,9
+Delaware,DE,7,10
+Florida,FL,8,12
+Georgia,GA,9,13
+Idaho,ID,10,16
+Indiana,IL,11,17
+Illinois,IN,12,18
+Iowa,IA,13,19
+Kansas,KS,14,20
+Kentucky,KY,15,21
+Louisiana,LA,16,22
+Maine,ME,17,23
+Maryland,MD,18,24
+Massachusetts,MA,19,25
+Michigan,MI,20,26
+Minnesota,MN,21,27
+Mississippi,MS,22,28
+Missouri,MO,23,29
+Montana,MT,24,30
+Nebraska,NE,25,31
+Nevada,NV,26,32
+New Hampshire,NH,27,33
+New Jersey,NJ,28,34
+New Mexico,NM,29,35
+New York,NY,30,36
+North Carolina,NC,31,37
+North Dakota,ND,32,38
+Ohio,OH,33,39
+Oklahoma,OK,34,40
+Oregon,OR,35,41
+Pennsylvania,PA,36,42
+Rhode Island,RI,37,44
+South Carolina,SC,38,45
+South Dakota,SD,39,46
+Tennessee,TN,40,47
+Texas,TX,41,48
+Utah,UT,42,49
+Vermont,VT,43,50
+Virginia,VA,44,51
+Washington,WA,45,53
+West Virginia,WV,46,54
+Wisconsin,WI,47,55
+Wyoming,WY,48,56
